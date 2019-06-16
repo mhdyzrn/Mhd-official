@@ -1,0 +1,14 @@
+# MHD OFFICIAL
+#
+# hostname
+# hostname:80
+# hostname:443
+
+#Telkomsel
+#
+
+#static-202-3-210-11.telkomsel.net.id/cgi-bin/cgiproxy
+#static-202-3-210-11.telkomsel.net.id
+
+
+static-202-3-210-11.telkomsel.net.id
