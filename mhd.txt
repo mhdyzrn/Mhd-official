@@ -7,8 +7,8 @@
 #Telkomsel
 #
 
-#static-202-3-210-11.telkomsel.net.id/cgi-bin/cgiproxy
-#static-202-3-210-11.telkomsel.net.id
+#202.3.210.11/cgi-bin/cgiproxy
+#202.3.210.11
 
 
-static-202-3-210-11.telkomsel.net.id
+202.3.210.11
