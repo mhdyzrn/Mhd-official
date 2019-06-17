@@ -1,0 +1,16 @@
+# Mhd officiaL
+#
+# hostname
+# hostname:80
+# hostname:443
+
+#Telkomsel
+#
+
+#Lamrastudio.pointdns.co/cgi-bin/cgiproxy
+#Lamrastudio.pointdns.co
+
+# SUBSCRIBE LIKE COMMENT & SHARE! 
+#
+
+Lamrastudio.pointdns.co:443
